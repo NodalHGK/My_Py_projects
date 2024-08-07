@@ -98,6 +98,8 @@ ____/______/______/______/______/_____"=.o|o_.--""___/______/______/______/____
                 print("Chuck Norris showed you what a real punch, Game Over.")
             else:
                 print("You didn't choose any of the answer options, the sphinx turned you into stone. Game Over.")
+        else:
+            print("A rock fell on your head. Game over.")
     else:
         print("You were eaten by a big lake shark. Game over.")
         print('''
